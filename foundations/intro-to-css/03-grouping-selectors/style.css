@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.positive, .negative {
+    font-size: 28px;
+    font-family: "helvetica", "times new roman", sans-serif;
+}
+
+.positive {
+    color: white;
+    background-color: black;
+}
+
+.negative {
+    color: black;
+    background-color: yellow;
+}
